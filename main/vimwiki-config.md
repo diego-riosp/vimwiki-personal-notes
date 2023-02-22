@@ -3,10 +3,9 @@ title: "VimWiki commands"
 
 ---
 
-[Back](index)
+[Back](index.md)
 
 ## Pre-requisites:
-
 Install the following dependences:
 
   ```bash
@@ -99,4 +98,4 @@ Now, you are able to convert `markdown` wikis into `html` files using the instru
 vimwiki.
 
 ---
-[Back](index)
+[Back](index.md)

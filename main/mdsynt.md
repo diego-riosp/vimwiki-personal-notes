@@ -2,7 +2,8 @@
 title: Markdown syntaxis
 
 ---
-[Back](index)
+
+[Back](index.md)
 
 ### Titles
 1. Main title `#`
@@ -58,5 +59,5 @@ Use the syntaxis `![explicit](implicit "image title")` where `explicit` shows th
 2. Put emojis with `:emoji-name:`. For a complete list of emojis, visit [GitHub emoji list](https://gist.github.com/rxaviers/7360908).
 
 ---
-[Back](index)
+[Back](index.md)
 

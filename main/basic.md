@@ -3,8 +3,7 @@ title: "Basic"
 
 ---
 
-[Back](index)
-
+[Back](index.md)
 
 # Basic commands
 - `:w` to store changes, and `:w!` to force.
@@ -33,4 +32,4 @@ title: "Basic"
 - `shift+g` to go to the end text.
 
 ---
-[Back](index)
+[Back](index.md)

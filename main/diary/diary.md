@@ -6,7 +6,6 @@ title: "Test for Diary"
 [Back](../index)
 
 # Notes per date
-
 [2023-02-21](2023-02-21)
 
 ## There is a test of LaTeX syntax:
@@ -20,6 +19,6 @@ And this is a paragraph
 - [ ]  Item03
 
 ---
-[Back](../index)
+[Back](../index.md)
 
 
