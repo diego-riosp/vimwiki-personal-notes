@@ -1,5 +1,4 @@
-% Main 
-
+% Main
 
 # VIM commands
 
