@@ -1,6 +1,5 @@
 ---
 title: "Main" 
-
 ---
 
 # VIM commands

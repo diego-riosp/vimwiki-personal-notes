@@ -1,6 +1,5 @@
 ---
 title: "VimWiki commands"
-
 ---
 
 [Back](index.md)

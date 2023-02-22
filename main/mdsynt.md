@@ -1,6 +1,5 @@
 ---
 title: Markdown syntaxis
-
 ---
 
 [Back](index.md)

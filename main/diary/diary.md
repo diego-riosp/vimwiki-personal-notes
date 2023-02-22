@@ -1,22 +1,18 @@
 ---
 title: "Test for Diary" 
-
 ---
 
-[Back](../index)
+[Back](../index.md)
 
-# Notes per date
-[2023-02-21](2023-02-21)
+## Frebruary tasks:
 
-## There is a test of LaTeX syntax:
+- [ ] Init commit `vimwiki` repository
+- [ ] About vim with neovim usage and vimwiki
+- [ ] Arch linux configuration
+- [ ] Initial notes for computational methods for physics course
 
-$$ x=\frac{f(t)^2}{2y} $$
-
-And this is a paragraph
-
-- [ ]  Item01
-- [ ]  Item02
-- [ ]  Item03
+## Notes per date
+[2023-02-21](2023-02-21.md)
 
 ---
 [Back](../index.md)

@@ -1,6 +1,5 @@
 ---
 title: "Basic" 
-
 ---
 
 [Back](index.md)
