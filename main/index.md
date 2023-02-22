@@ -2,13 +2,15 @@
 
 # VIM commands
 
-Basic commands in vim: [Basic](basic.md) 
+Basic commands in vim: [Basic](vim-basic-commands.md) 
 
-VimWiki configuration: [Config](vimwiki-config.md) 
+VimWiki configuration: [Config](vimwiki-config.md)
+
+VimWiki commands: [VW commands](vm-commands.md)
 
 
 # Markdown
-[Syntaxis](mdsynt.md)
+[Syntax](mdsynt.md)
 
 # Diary
 [Diary](diary/diary.md)

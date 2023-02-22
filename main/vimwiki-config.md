@@ -81,7 +81,7 @@ In order to install vimwiki plugin and configure it in your neovim environment, 
 
   # >&2 echo "MATH: $MATH"
 
-  sed -r 's/(\[.+\])\(([^#)]+)\)/\1(\2.html)/g' <"$INPUT" | pandoc $MATH -s -f $SYNTAX -t html --template=github.html5 -c $CSSFILENAME | sed -r 's/<li>(.*)\[ \]/<li class="todo done0">\1/g; s/<li>(.*)\[X\]/<li class="todo done4">\1/g' >"$OUTPUT.html"
+  sed -r 's/(\[.+\])\(([^#)]+)\)/\1(\2)/g' <"$INPUT" | pandoc $MATH -s -f $SYNTAX -t html --template=github.html5 -c $CSSFILENAME | sed -r 's/<li>(.*)\[ \]/<li class="todo done0">\1/g; s/<li>(.*)\[X\]/<li class="todo done4">\1/g; s/.md"/.html"/g' >"$OUTPUT.html"
   ```
 4. Create the file `github.html5` following the instruction:
   
