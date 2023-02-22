@@ -1,6 +1,4 @@
----
-title: "Test for Diary" 
----
+% Test for Diary
 
 [Back](../index.md)
 

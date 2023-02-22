@@ -1,6 +1,4 @@
----
-title: Markdown syntaxis
----
+% Markdown syntaxis
 
 [Back](index.md)
 

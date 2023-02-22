@@ -1,6 +1,4 @@
----
-title: "Basic" 
----
+% VIM Basic 
 
 [Back](index.md)
 

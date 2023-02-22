@@ -1,6 +1,4 @@
----
-title: "VimWiki commands"
----
+% VimWiki commands
 
 [Back](index.md)
 

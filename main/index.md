@@ -1,6 +1,5 @@
----
-title: "Main" 
----
+% Main 
+
 
 # VIM commands
 
