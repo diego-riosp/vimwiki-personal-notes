@@ -10,7 +10,11 @@ VimWiki commands: [VW commands](vm-commands.md)
 
 
 # Markdown
-[Syntax](mdsynt.md)
+Basic syntax for `markdown` writing: [Syntax](mdsynt.md)
+
+# Computational methods for physics (Python)
+Basic elements for scientific computation with python: [Basic Python](basic-python.md)
+
 
 # Diary
 [Diary](diary/diary.md)
