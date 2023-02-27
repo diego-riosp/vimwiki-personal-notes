@@ -28,11 +28,13 @@ Represented by **32-bits** (Binary digIT) lenght binary number, these numbers re
 
 We can follow the next formula in order to compute a given real number:
 
-$$ r = \left(-1 \right)^s \times \left( 1+\sum_{i=1}^{23} b_{23-i}2^{-i} \right) \times 2^{e-127}, $$
+$$ r = \left(-1 \right)^s \times \left( 1+\sum_{i=1}^{23} b_{23-i}2^{-i} \right) \times 2^{e-127}, 
+$$
 
 where $s$ is the sing, $b_{23-i}$ the fraction bits, and $e$ is given by
 
-$$ e = \sum_{i=0}^7b_{23+i}2^i $$
+$$ e = \sum_{i=0}^7b_{23+i}2^i 
+$$
 
 
 ---
