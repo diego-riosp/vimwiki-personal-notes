@@ -15,6 +15,10 @@ Basic syntax for `markdown` writing: [Syntax](mdsynt.md)
 # Computational methods for physics (Python)
 Basic elements for scientific computation with python: [Basic Python](basic-python.md)
 
+## Computer arithmetics and Round-off methods
+
+About simple-precision numbers and double-pŕecision numbers: [Computer arithmetics](computer-arithmetics.md)
+
 
 # Diary
 [Diary](diary/diary.md)
